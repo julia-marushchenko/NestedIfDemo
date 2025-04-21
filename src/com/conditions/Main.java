@@ -20,12 +20,11 @@ public class Main {
             if(number < 20){
 
                 System.out.println("Number is smaller than 20");
-
+            }
                 // Second if statement, will be executed only if statement above is true
-                if(number < 15){
+            if(number < 15){
 
-                    System.out.println("Number is smaller than 15 too");
-                }
+                System.out.println("Number is smaller than 15 too");
             }
 
         } else {
